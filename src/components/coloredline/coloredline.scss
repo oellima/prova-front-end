@@ -1,0 +1,22 @@
+.colored-line {
+    width: 100%;
+    height: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    .color-one {
+        width: 25%;
+        background-color: #e9e945;
+    }
+    .color-two {
+        width: 25%;
+        background-color: #df2e2e;
+    }
+    .color-three {
+        width: 25%;
+        background-color: #4747ce;
+    }
+    .color-four {
+        width: 25%;
+        background-color: #28ad28;
+    }
+}
